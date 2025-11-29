@@ -1,63 +1,64 @@
-# 👋 Hi, I'm Mac (Weerachai Tamboon)
+# Weerachai Tamboon (Mac)
 
-**IT Manager • Software Development Manager • Digital Transformation Lead**  
-Building systems that solve real business problems and make work easier for people.
+**IT Manager • Software Development Manager • Digital Transformation Lead**
 
----
-
-## 💡 About Me
-
-I work in the technology field with experience across system design, software development, business analysis, and digital transformation. My main strength is turning complex business processes into clean, scalable digital platforms.
-
-I’ve designed and delivered more than ten internal systems across HR, Finance, Sales, Credit Analysis, Legal, Operations, Construction, and Executive Office. Most of them were built end-to-end — from pain point discovery to deployment and long-term support.
-
-I enjoy simplifying complexity, designing practical workflows, and helping teams adopt tools that actually make sense for their work. I adapt quickly to any domain, work well with stakeholders at all levels, and always aim for clarity and practicality.
+Building practical systems that solve real business problems and improve organizational efficiency.
 
 ---
 
-## 🚀 What I Can Deliver (End-to-End)
+## About Me
 
-✔ Business discovery & requirements  
-✔ System architecture & workflow design  
-✔ Database modeling  
-✔ Backend & frontend development  
-✔ Testing & deployment  
-✔ Training & documentation  
-✔ KPI measurement & continuous improvement  
+I work in the technology field with experience in system design, software development, business analysis, and digital transformation. My main focus is turning complex business processes into stable, scalable, and maintainable digital platforms.
 
-> “AI doesn’t solve problems by itself — the advantage belongs to the person who can think, communicate, and integrate it into real workflows.”
+I have delivered more than ten internal systems for HR, Finance, Sales, Credit Analysis, Legal, Operations, Construction, and Executive Office. Most of these systems were built end-to-end — from pain point discovery and requirements analysis to architecture, development, deployment, training, and ongoing improvement.
+
+I enjoy simplifying complexity, designing clear workflows, and helping teams adopt tools that align with real business needs. I adapt quickly to new domains, work closely with stakeholders at all levels, and focus on creating long-term solutions rather than temporary fixes.
 
 ---
 
-## 🧠 Core Skills
+## What I Deliver (End-to-End)
 
-### **Digital Transformation & Leadership**
+- Business discovery and requirements  
+- System architecture and workflow design  
+- Database modeling  
+- Backend and frontend development  
+- Testing, deployment, and documentation  
+- User training and rollout  
+- KPI and performance measurement  
+
+*“AI and technology only create value when paired with the right thinking, communication, and practical integration.”*
+
+---
+
+## Core Skills
+
+### Digital Transformation & Leadership
 - Business analysis  
 - Cross-department collaboration  
-- Multi-project & program management  
-- Change management & rollout strategy  
+- Multi-project and program management  
+- Change management and rollout strategy  
 
-### **System Architecture & Backend**
+### System Architecture & Backend
 - Laravel (PHP)  
 - Node.js  
-- System design  
+- System and workflow design  
 - API design  
 - PostgreSQL / MySQL  
 
-### **Frontend & UX**
+### Frontend & UX
 - React  
 - TypeScript  
 - Webflow  
 - Figma  
 
-### **DevOps & Infrastructure**
+### DevOps & Infrastructure
 - Ubuntu Server  
 - AWS  
 - Git  
 - Nginx  
 - Basic Docker  
 
-### **Other Tools**
+### Supporting Tools
 - Draw.io / Visio  
 - Mermaid  
 - Prisma  
@@ -66,62 +67,72 @@ I enjoy simplifying complexity, designing practical workflows, and helping teams
 
 ---
 
-## 🏗️ Featured Systems & Projects
+## Selected Systems & Projects
 
-### **💲 Debt Management System** *(Finance • Banking • Debt Collection)*  
-An all-in-one platform covering debtor profiles, call operations, legal workflows, finance tracking, and asset management.
-______
-### **🔁 Debt Exchange Platform** *(Finance • Credit • Portfolio Management)*  
-A system that centralizes debt portfolio exchange between debt owners and collectors to improve collection efficiency.
-______
-### **🧾 e-Approval System** *(Corporate Services • Executive Office • Multidepartment)*  
-A full digital approval workflow used by HR, Finance, Legal, Sales, and Executive Office.  
-Reduces approval time from days to same-day decision.
-______
-### **📊 Project, Task & Timesheet Management System** *(Operations • PMO • IT Management)*  
-Organization-wide platform for project planning, task tracking, workload visibility, and weekly reporting.
-______
-### **💳 DirectLoan – Credit Analysis System** *(Finance • Credit Analysis • Sales)*  
-A fast-track platform that collects customer data, evaluates purchase potential, and supports Sales + Credit collaboration.
-______
-### **👤 HR Database & SSO Foundation** *(Human Resources • Identity Management)*  
-A central employee database with role-based access control for all internal systems.
-______
-### **🏨 Hotel Guest Service System** *(Hospitality • Customer Service)*  
-Lightweight system to handle room service, item requests, and food order workflows.
-______
-### **🎫 Event Manager & QR Check-in System** *(Event Management • Corporate Communications)*  
-Event registration and invitation portal with automatic email confirmation and QR-based check-in.
-______
-### **🔧 Construction Defect Tracking System** *(Construction • Real Estate • Quality Control)*  
-Tracks construction defects, repair workflows, and contractor actions from discovery to resolution.
-______
-### **📄 Document Management & Tracking System** *(Legal • Compliance • Corporate Governance)*  
-Improves audit accuracy by tracking contract and document usage across all departments.
-______
-### **💻 IT Asset Tracking System** *(IT Infrastructure • Operations)*  
-Simple internal tool to track computers, accessories, and IT equipment at the organization level.
+### Debt Management System  
+**Field:** Finance • Banking • Debt Collection  
+A comprehensive platform for debtor management, call operations, legal workflows, finance tracking, and asset management.
 
+### Debt Exchange Platform  
+**Field:** Finance • Credit • Portfolio Management  
+A system for debt portfolio exchange between debt owners and collectors to improve collection performance.
 
----
+### e-Approval System  
+**Field:** Corporate Services • Executive Office • Multidepartment  
+A digital approval workflow for HR, Finance, Legal, Sales, and Executive Office.  
+Reduced approval time from several days to same-day decision.
 
-## 📈 Current Focus
+### Project, Task & Timesheet Management  
+**Field:** Operations • PMO • IT Management  
+An organization-wide system for planning, task tracking, workload visibility, and reporting.
 
-- Building a new portfolio website showcasing all major projects  
-- Preparing for next career step in digital transformation & software development management  
-- Improving architecture patterns and cloud deployment workflow  
-- Practicing for TOEIC test & improving English communication  
+### DirectLoan – Credit Analysis System  
+**Field:** Finance • Credit Analysis • Sales  
+A platform for collecting customer data, evaluating purchase potential, and standardizing the Sales–Credit workflow.
 
----
+### HR Database & SSO Foundation  
+**Field:** Human Resources • Identity Management  
+Centralized employee data with role-based access control for internal systems.
 
-## 🧩 Philosophy
+### Hotel Guest Service System  
+**Field:** Hospitality • Customer Service  
+A lightweight workflow system for room service, item requests, and food orders.
 
-*Most problems can be solved when technology is paired with the right strategy.*  
-*Every issue needs a standard solution, but real success comes from understanding human behavior and adapting the system to it.*
+### Event Manager & QR Check-In  
+**Field:** Event Management • Corporate Communications  
+A system for event registration, invitations, confirmation emails, and QR-based check-in.
+
+### Construction Defect Tracking  
+**Field:** Construction • Real Estate • Quality Assurance  
+Tracks construction defects, repair timelines, and contractor responsibilities.
+
+### Document Management & Tracking  
+**Field:** Legal • Compliance • Corporate Governance  
+Tracks document circulation, contract usage, and improves audit accuracy.
+
+### IT Asset Tracking  
+**Field:** IT Infrastructure • Operations  
+A tool for tracking computers, accessories, and IT equipment across the organization.
 
 ---
 
-## 📬 Contact
+## Current Focus
+
+- Building a new portfolio website to showcase transformation projects  
+- Preparing for next career move in digital transformation and software development leadership  
+- Improving system architecture and deployment workflows  
+- Strengthening English communication and preparing for TOEIC  
+
+---
+
+## Philosophy
+
+Technology works best when paired with the right strategy and clear communication.  
+Every system needs a strong standard and a deep understanding of how people truly work.
+
+---
+
+## Contact
 
 **Email:** your.email@example.com  
 **Location:** Chiang Mai, Thailand  
@@ -129,4 +140,4 @@ Simple internal tool to track computers, accessories, and IT equipment at the or
 
 ---
 
-### ⭐ If you like my work or want to collaborate, feel free to reach out!
+If you would like to collaborate or discuss technology and digital transformation, feel free to connect.
